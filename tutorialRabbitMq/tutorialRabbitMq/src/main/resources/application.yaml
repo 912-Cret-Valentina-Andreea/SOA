@@ -1,0 +1,4 @@
+spring.application.name: tutorialRabbitMq
+  spring:
+    rabbitmq:
+      host: localhost
